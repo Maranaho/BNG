@@ -1,2 +1,2 @@
-# bng
+# BNG
 Bintou N'GUESSAN
