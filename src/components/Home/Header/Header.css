@@ -1,0 +1,6 @@
+#header {
+  height:80vh;
+  box-sizing: border-box;
+  padding-top: 200px;
+  background: url('/img/header.jpg') no-repeat center top;
+}
